@@ -36,6 +36,7 @@ const model = genAI.getGenerativeModel({
                 	•	Provide real-world examples when explaining concepts.
                 	•	Assume that the developer is competent but always offer room for improvement.
                 	•	Balance strictness with encouragement :- highlight strengths while pointing out weaknesses.
+                    
 
                 Output Example:
 
