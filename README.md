@@ -16,3 +16,17 @@ A real-time AI-powered code review tool built with **React (Vite)** frontend and
 
 ## 📂 Project Structure
 
+Code-Reviewer/
+├── Frontend/ # React + Vite frontend
+│ ├── src/
+│ ├── public/
+│ └── package.json
+├── backend/ # Node.js + Express backend
+│ ├── src/
+│ │ ├── controllers/
+│ │ ├── routes/
+│ │ └── services/
+│ ├── server.js
+│ └── package.json
+├── .gitignore
+└── README.md
